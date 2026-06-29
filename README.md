@@ -35,12 +35,11 @@ With a background spanning engineering, international hospitality management, an
 
 ## 🔮 Portfolio Projects
 
-* **[Telecom Churn Analysis](https://github.com/pcpc466)** 📱
+* **[Telecom Churn Analysis](https://github.com/pcpc466/ChurnAnalysis)** 📱
   * Engineered a logistic regression model to identify customer churn triggers paired with an interactive Tableau dashboard tracking high-risk accounts.
-* **[NLP Sentiment Analysis Pipeline](https://github.com/pcpc466)** 🐦
-  * Created a Python script leveraging automated APIs to scrape and process social media data from Twitter, performing exploratory text analysis on customer trends.
-* **[Air Quality & Weather Pipeline](https://github.com/pcpc466)** 🌤️
-  * Built an automated ETL pipeline utilizing OpenAQ and OpenWeatherMap APIs to fetch, validate, and clean environmental data across multiple Canadian cities.
+* **[AI/ML Fraud Detection Pipeline & Dashboard](https://github.com/pcpc466/Fraud-Detection)** 🧲
+  * This project is a full-stack fraud detection case study built on the Kaggle Credit Card Fraud dataset. It covers the entire pipeline — from SQL-based exploratory data analysis and rule-based fraud flagging in BigQuery, through machine learning classification in Python, to an interactive risk monitoring dashboard in Power BI.
+  * Detected how the fraud is masked using small transactions, making the accuracy invaluable. Implemented XGBoost and Random Forest to better detect fraud using the SMOTE scaling technique. 
 
 ---
 
@@ -49,9 +48,9 @@ With a background spanning engineering, international hospitality management, an
 I am currently seeking opportunities as a **Data Analyst, BI Analyst, or Power BI Developer** in Canada[cite: 1]. Let's connect and chat about business intelligence, data-driven transformations, or music!
 
 * 📧 **Email:** [prashantch.94@gmail.com](mailto:prashantch.94@gmail.com)[cite: 1]
-* 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantchauhanca)[cite: 1]
+* 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantca/)[cite: 1]
 * 💻 **Portfolio/GitHub:** [github.com/pcpc466](https://github.com/pcpc466)[cite: 1]
 
 ***
 
-⚡ *Fun fact: When I'm not writing DAX or optimizing SQL queries, you'll find me relaxing to the ambient, late-night sounds of dream pop and shoegaze music.*
+⚡ *Fun fact: When I'm not writing DAX or optimizing SQL queries, you'll find me relaxing to the ambient light.  shoegaze music.*
