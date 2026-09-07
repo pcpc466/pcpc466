@@ -47,7 +47,7 @@ With a background spanning engineering, international hospitality management, an
 
 I am currently seeking opportunities as a **Data Analyst, BI Analyst, or Power BI Developer** in Canada[cite: 1]. Let's connect and chat about business intelligence, data-driven transformations, or music!
 
-* 📧 **Email:** [prashantch.94@gmail.com](mailto:prashantch.94@gmail.com)[cite: 1]
+* 📧 **Email:** [prashantch.94@gmail.com](mailto:prashantchauhan365@gmail.com)[cite: 1]
 * 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantca/)[cite: 1]
 * 💻 **Portfolio/GitHub:** [github.com/pcpc466](https://github.com/pcpc466)[cite: 1]
 
