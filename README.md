@@ -1,6 +1,6 @@
 # Hi there! I'm Prashant Singh Chauhan 👋
 
-I am a **Results-Driven Data Analyst & Business Intelligence Professional** based in the Toronto area 🇨🇦 with over 5 years of experience transforming raw, chaotic data into actionable business stories and high-impact dashboards. 
+I am a **Results-Driven Data Analyst & Business Intelligence Professional** based in the Toronto area 🇨🇦 with over 3 years of experience transforming raw, chaotic data into actionable business stories and high-impact dashboards. 
 
 With a background spanning engineering, international hospitality management, and advanced data analytics, I specialize in building robust data pipelines, designing optimized data models, and delivering KPI-driven insights that directly improve operational efficiency.
 
