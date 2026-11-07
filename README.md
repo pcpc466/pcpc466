@@ -9,9 +9,9 @@ With a background spanning engineering, international hospitality management, an
 ## 📊 Business Intelligence & Analytics Wins
 
 * **Operations Forecasting**: Built predictive inventory models using historical sales trends that successfully reduced annual operational waste by **12%**.
-* **High-Volume Transaction Analysis**: Audited and analyzed **1,200+ daily transactional records** to identify growth trends, monitor average order value, and flag cost variances[cite: 1].
-* **Revenue & Performance Tracking**: Maintained and supported KPI reporting infrastructures for high-volume premium operations contributing to **$50K+ in monthly revenue**[cite: 1].
-* **Data Optimization & Modeling**: Designed end-to-end data cleaning pipelines and optimized star-schema data models to power seamless drill-through business reports[cite: 1].
+* **High-Volume Transaction Analysis**: Audited and analyzed **1,200+ daily transactional records** to identify growth trends, monitor average order value, and flag cost variances.
+* **Revenue & Performance Tracking**: Maintained and supported KPI reporting infrastructures for high-volume premium operations contributing to **$50K+ in monthly revenue**.
+* **Data Optimization & Modeling**: Designed end-to-end data cleaning pipelines and optimized star-schema data models to power seamless drill-through business reports.
 
 ---
 
@@ -47,9 +47,9 @@ With a background spanning engineering, international hospitality management, an
 
 I am currently seeking opportunities as a **Data Analyst, BI Analyst, or Power BI Developer** in Canada[cite: 1]. Let's connect and chat about business intelligence, data-driven transformations, or music!
 
-* 📧 **Email:** [prashantch.94@gmail.com](mailto:prashantchauhan365@gmail.com)[cite: 1]
-* 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantca/)[cite: 1]
-* 💻 **Portfolio/GitHub:** [github.com/pcpc466](https://github.com/pcpc466)[cite: 1]
+* 📧 **Email:** [prashantch.94@gmail.com](mailto:prashantchauhan365@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantca/)
+* 💻 **Portfolio:** [github.com/pcpc466](https://replit.com/@prashantsing281/portfolio)
 
 ***
 
