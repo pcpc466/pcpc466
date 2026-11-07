@@ -27,9 +27,9 @@ With a background spanning engineering, international hospitality management, an
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Libraries & Frameworks
-* **Data Wrangling & Analysis:** `Pandas` | `NumPy` | `Power Query` | `DAX`[cite: 1]
-* **Machine Learning & Modeling:** `scikit-learn`[cite: 1]
-* **Data Environments:** `SQL Server` | `MySQL` | `Snowflake`[cite: 1]
+* **Data Wrangling & Analysis:** `Pandas` | `NumPy` | `Power Query` | `DAX`
+* **Machine Learning & Modeling:** `scikit-learn`
+* **Data Environments:** `SQL Server` | `MySQL` | `Snowflake`
 
 ---
 
@@ -48,8 +48,8 @@ With a background spanning engineering, international hospitality management, an
 I am currently seeking opportunities as a **Data Analyst, BI Analyst, or Power BI Developer** in Canada[cite: 1]. Let's connect and chat about business intelligence, data-driven transformations, or music!
 
 * 📧 **Email:** [prashantch.94@gmail.com](mailto:prashantchauhan365@gmail.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantca/)
-* 💻 **Portfolio:** [github.com/pcpc466](https://replit.com/@prashantsing281/portfolio)
+* 🔗 **LinkedIn:** [linkedin.com/in/prashantchauhanca](https://www.linkedin.com/in/prashantca42/)
+* 💻 **Portfolio:** [real time portfolio](https://replit.com/@prashantsing281/portfolio)
 
 ***
 
